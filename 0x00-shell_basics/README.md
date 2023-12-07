@@ -1,0 +1,1 @@
+scrpt for print commands
